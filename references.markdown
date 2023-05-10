@@ -1,0 +1,39 @@
+---
+layout: default
+title: References
+permalink: /references/
+---
+<div class="container">
+    <h2>References</h2>
+    <ul class="references">
+        <li>Air Quality - Mayor’s Office of Sustainability. (n.d.). <br><span class="indent"><a href="https://www.nyc.gov/site/sustainability/initiatives/air-quality.page">https://www.nyc.gov/site/sustainability/initiatives/air-quality.page</a></span></li>
+        <li>Borck, R., & Schrauth, P. (2021). Population density and urban air quality. Regional Science and Urban Economics, 86, 103596.<br><span class="indent"><a href="https://doi.org/10.1016/j.regsciurbeco.2020.103596">https://doi.org/10.1016/j.regsciurbeco.2020.103596</a></span></li>
+        <li>Borough Boundaries | NYC Open Data. (n.d.). NYC Open Data.<br><span class="indent"><a href="https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm">https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm</a></span></li>
+        <li>Chan, S. (2017, September 12). Survey Finds Street-Level Air Pollution in Manhattan. City Room<br><span class="indent"><a href="https://archive.nytimes.com/cityroom.blogs.nytimes.com/2009/12/16/survey-finds-street-level-air-pollution-in-manhattan/">https://archive.nytimes.com/cityroom.blogs.nytimes.com/2009/12/16/survey-finds-street-level-air-pollution-in-manhattan/</a></span></li>
+        <li>Compare Cities. (2023). Bestplaces. <br><span class="indent"><a href="https://www.bestplaces.net/compare-cities/brooklyn_ny/the_bronx_ny/people">https://www.bestplaces.net/compare-cities/brooklyn_ny/the_bronx_ny/people</a></span></li>
+        <li>Divo, M., Marin, J. J., Casanova, C., Lopez, C. F., Pinto-Plata, V. M., Marin-Oto, M., Polverino, F., Wisnivesky, J. P., Billheimer, D., Celli, B. R., Celli, B. R., Marin, J. J., Macario, C. C., Pinto-Plata, V., Wisnivesky, J. P., Divo, M., Lopez, C. F., Polverino, F., & Oto, M. M. (2022). Comorbidities and mortality risk in adults younger than 50 years of age with chronic obstructive pulmonary disease. Respiratory Research, 23(1). <br><span class="indent"><a href="https://doi.org/10.1186/s12931-022-02191-7">https://doi.org/10.1186/s12931-022-02191-7</a></span></li>
+        <li>Download Daily Data | US EPA. (2023a, February 9). US EPA.<br><span class="indent"><a href="https://www.epa.gov/outdoor-air-quality-data/download-daily-data?fbclid=IwAR3ClABG5WPH7QDj-MjPFoLNmtHehpmTb-k8JvrsxovraJD0cFqsU8e2VpI">https://www.epa.gov/outdoor-air-quality-data/download-daily-data?fbclid=IwAR3ClABG5WPH7QDj-MjPFoLNmtHehpmTb-k8JvrsxovraJD0cFqsU8e2VpI</a></span></li>
+        <li>Download Daily Data | US EPA. (2023b, February 9). US EPA.<br><span class="indent"><a href="https://www.epa.gov/outdoor-air-quality-data/download-daily-data?fbclid=IwAR3ClABG5WPH7QDj-MjPFoLNmtHehpmTb-k8JvrsxovraJD0cFqsU8e2VpI">https://www.epa.gov/outdoor-air-quality-data/download-daily-data?fbclid=IwAR3ClABG5WPH7QDj-MjPFoLNmtHehpmTb-k8JvrsxovraJD0cFqsU8e2VpI</a></span></li>
+        <li>Dwyer, J. (2017, March 1). Remembering a City Where the Smog Could Kill. The New York Times.<br><span class="indent"><a href="https://www.nytimes.com/2017/02/28/nyregion/new-york-city-smog.html">https://www.nytimes.com/2017/02/28/nyregion/new-york-city-smog.html</a></span></li>
+        <li>European city air quality viewer. (n.d.). European Environment Agency.<br><span class="indent"><a href="https://www.eea.europa.eu/themes/air/urban-air-quality/european-city-air-quality-viewer">https://www.eea.europa.eu/themes/air/urban-air-quality/european-city-air-quality-viewer</a></span></li>
+        <li>Fine Particles (PM 2.5) Questions and Answers. (n.d.-a). <br><span class="indent"><a href="https://www.health.ny.gov/environmental/indoors/air/pmq_a.htm">https://www.health.ny.gov/environmental/indoors/air/pmq_a.htm</a></span></li>
+        <li>Fine Particles (PM 2.5) Questions and Answers. (n.d.-b)<br><span class="indent"><a href="https://www.health.ny.gov/environmental/indoors/air/pmq_a.htm">https://www.health.ny.gov/environmental/indoors/air/pmq_a.htm</a></span></li>
+        <li>Inhalable Particulate Matter and Health (PM2.5 and PM10) | California Air Resources Board. (n.d.).<br><span class="indent"><a href="https://ww2.arb.ca.gov/resources/inhalable-particulate-matter-and-health">https://ww2.arb.ca.gov/resources/inhalable-particulate-matter-and-health</a></span></li>
+        <li>McDuffie, E. E., Martin, R. M., Spadaro, J. V., Burnett, R. T., Smith, S. M., O’Rourke, P., Hammer, M. S., Van Donkelaar, A., Bindle, L., Shah, V. N., Jaeglé, L., Luo, G., Yu, F. R., Adeniran, J. A., Lin, J., & Brauer, M. (2021). Source sector and fuel contributions to ambient PM2.5 and attributable mortality across multiple spatial scales. Nature Communications, 12(1). <br><span class="indent"><a href="https://doi.org/10.1038/s41467-021-23853-y">https://doi.org/10.1038/s41467-021-23853-y</a></span></li>
+        <li>New York City Department of Health and Mental Hygiene. (2015). Neighborhood Air Quality. <br><span class="indent"><a href="https://www.nyc.gov/assets/doh/downloads/pdf/environmental/comm-air-survey-08-13.pdf. ">https://www.nyc.gov/assets/doh/downloads/pdf/environmental/comm-air-survey-08-13.pdf.</a></span></li>
+        <li>Particle Pollution and Respiratory Effects | US EPA. (2022, July 5). US EPA.<br><span class="indent"><a href="https://www.epa.gov/pmcourse/particle-pollution-and-respiratory-effects#:~:text=COPD%20comprises%20a%20spectrum%20of,disease%20and%20likely%20its%20pathogenesis">https://www.epa.gov/pmcourse/particle-pollution-and-respiratory-effects#:~:text=COPD%20comprises%20a%20spectrum%20of,disease%20and%20likely%20its%20pathogenesis</a></span></li>
+        <li>Particulate Matter (PM2.5) Trends | US EPA. (2022, August 1). US EPA.<br><span class="indent"><a href="https://www.epa.gov/air-trends/particulate-matter-pm25-trends">https://www.epa.gov/air-trends/particulate-matter-pm25-trends</a></span></li>
+        <li>Report on Air Quality - NYC Health. (n.d.-a).<br><span class="indent"><a href="https://www.nyc.gov/site/doh/about/press/pr2019/health-department-releases-report-on-air-quality.page">https://www.nyc.gov/site/doh/about/press/pr2019/health-department-releases-report-on-air-quality.page</a></span></li>
+        <li>Report on Air Quality - NYC Health. (n.d.-b).<br><span class="indent"><a href="https://www.nyc.gov/site/doh/about/press/pr2019/health-department-releases-report-on-air-quality.page">https://www.nyc.gov/site/doh/about/press/pr2019/health-department-releases-report-on-air-quality.page</a></span></li>
+        <li>Times, B. (2022, June 28). Op-Ed | It is time for the South Bronx to breathe clean air – Bronx Times. Bronx Times. <br><span class="indent"><a href="https://www.bxtimes.com/op-ed-it-is-time-for-the-south-bronx-to-breathe-clean-air/">https://www.bxtimes.com/op-ed-it-is-time-for-the-south-bronx-to-breathe-clean-air/</a></span></li>
+        <li>Varghese, R. (2022). Air Pollution in NYC: Causes, Effects, and Solutions. Earth.Org.<br><span class="indent"><a href="https://earth.org/air-pollution-in-nyc/">https://earth.org/air-pollution-in-nyc/</a></span></li>
+        <li>Ηow air pollution affects our health. (2023, April 24). <br><span class="indent"><a href="https://www.eea.europa.eu/en/topics/in-depth/air-pollution/eow-it-affects-our-health#:~:text=Both%20short%2D%20and%20long%2Dterm,asthma%20and%20lower%20respiratory%20infections">https://www.eea.europa.eu/en/topics/in-depth/air-pollution/eow-it-affects-our-health#:~:text=Both%20short%2D%20and%20long%2Dterm,asthma%20and%20lower%20respiratory%20infections</a></span></li>
+
+
+
+
+
+        
+        
+    </ul>
+</div>
